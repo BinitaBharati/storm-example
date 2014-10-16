@@ -12,5 +12,6 @@
                  [org.apache.storm/storm-core "0.9.2-incubating"]
                  [org.apache.activemq/activemq-all "5.5.1"]
                  [org.slf4j/slf4j-log4j12 "1.5.8"]
+                 [commons-io/commons-io "2.4"]                
                  ]
  )
